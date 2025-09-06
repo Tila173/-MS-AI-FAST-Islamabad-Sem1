@@ -7,7 +7,6 @@ I’ll be uploading coursework, assignments, notes, projects, and useful resourc
 👉 Don’t forget to ⭐ this repo if you find it useful!
 
 ---
-
 ## 📚 Courses (Semester 1 – MS AI)
 | #  | Course Code | Short | Name                                  | Type   | Credit Hours |
 |----|-------------|-------|---------------------------------------|--------------|--------------|
@@ -15,9 +14,8 @@ I’ll be uploading coursework, assignments, notes, projects, and useful resourc
 | 2  | AI6102      | DL    | Advance AI                            | Core         |      3       |
 | 3  | AI5002      | LA    | Mathematical Foundations of AI        | Core         |      3       |
 | 4  | RS6001      | RM    | Research Methodology                  | Core         |      3       |
-
-**Total Credit Hours: 09**
-
+|----|-------------|-------|---------------------------------------|--------------|--------------|
+| **Total Credit Hours: 09**                                       |                     09      |
 ---
 
 ## 🔗 Other Semester Repositories
@@ -28,7 +26,8 @@ I’ll be uploading coursework, assignments, notes, projects, and useful resourc
 ---
 
 ## 🔗 Guide to Get You Started
-- Useful Websites you should know  
+- Course-wise Guide
+- Useful Websites & Research Databases you should know  
 - Useful Tools you should know  
 - Useful Repositories you should know  
 - Additional Resources  
