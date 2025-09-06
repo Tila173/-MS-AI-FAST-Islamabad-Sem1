@@ -11,8 +11,8 @@ I’ll be uploading coursework, assignments, notes, projects, and useful resourc
 | #  | Course Code | Short | Name                                  | Type   | Credit Hours |
 |----|-------------|-------|---------------------------------------|--------------|--------------|
 | 1  | CS4002      | AP    | Applied Programming                   | No Credit    |      0       |
-| 2  | AI6102      | DL    | Advance AI                            | Core         |      3       |
-| 3  | AI5002      | LA    | Mathematical Foundations of AI        | Core         |      3       |
+| 2  | AI6102      | AAI   | Advance AI                            | Core         |      3       |
+| 3  | AI5002      | MAI   | Mathematical Foundations of AI        | Core         |      3       |
 | 4  | RS6001      | RM    | Research Methodology                  | Core         |      3       |
 |    |             |       | **Total Credit Hours**                |              |    **09**    |
 ---
